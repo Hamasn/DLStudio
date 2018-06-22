@@ -1,0 +1,20 @@
+PODS:
+  - CircleMenu (3.0.0)
+  - Hue (3.0.1)
+
+DEPENDENCIES:
+  - CircleMenu
+  - Hue
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CircleMenu
+    - Hue
+
+SPEC CHECKSUMS:
+  CircleMenu: 63d02351f5cb550777b47aa19cc336e09fec2a98
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+
+PODFILE CHECKSUM: f565f67609fbec7a77349080f8b3c077c42cb6ef
+
+COCOAPODS: 1.5.0
